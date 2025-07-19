@@ -1,20 +1,21 @@
 {
   "expo": {
-    "name": "fortune",
-    "slug": "fortune",
+    "name": "Mystic Fortune",
+    "slug": "mystic-fortune",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "fortune",
+    "scheme": "mystic-fortune",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "description": "🔮 Unveil your destiny with mystical fortune telling and ancient wisdom",
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#2D1B69"
       },
       "edgeToEdgeEnabled": true
     },
@@ -31,7 +32,7 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "backgroundColor": "#2D1B69"
         }
       ],
       "expo-font"
